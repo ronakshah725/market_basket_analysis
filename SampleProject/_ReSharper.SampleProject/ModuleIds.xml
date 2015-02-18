@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="08E546FE-8008-430A-B598-B93332FC3A17" ModuleId="SampleProject" />
+  <Module PersistentId="49F14BB7-E49E-4574-8038-25ABB6D5CF46" ModuleId="AprioriAlgorithm" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+</Modules>

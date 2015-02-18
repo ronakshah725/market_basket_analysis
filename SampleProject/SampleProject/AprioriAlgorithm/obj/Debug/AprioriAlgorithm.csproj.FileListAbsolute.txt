@@ -1,0 +1,35 @@
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb

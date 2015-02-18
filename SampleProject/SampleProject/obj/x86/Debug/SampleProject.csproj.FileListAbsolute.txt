@@ -1,0 +1,135 @@
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Form1.resources
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+d:\Ashwin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\Apriori.mdf
+d:\Ashwin\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\Apriori_log.ldf
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlGraph.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+C:\Users\Dell\Desktop\Bhavin\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.csprojResolveAssemblyReference.cache
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlGraph.resources
+D:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.csproj.GenerateResource.Cache
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlGraph.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.login.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.StartPage.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.welcome.resources
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.csprojResolveAssemblyReference.cache
+E:\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.login.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.StartPage.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.welcome.resources
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+C:\Users\Dell\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.login.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.StartPage.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.welcome.resources
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+C:\Users\Ashwin\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.exe
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.pdb
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB.mdf
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\App_Data\DB_log.ldf
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.dll
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\bin\Debug\AprioriAlgorithm.pdb
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.login.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.StartPage.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlAddTranscation.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Graph.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Home.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlApriori.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.UserControlDashBoard.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\SampleProject.welcome.resources
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\SampleProject (1)\SampleProject\SampleProject\SampleProject\obj\x86\Debug\GenerateResource.write.1.tlog

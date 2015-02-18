@@ -1,0 +1,588 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Contracts/f:ISorter.cs" caret="111" fromTop="4" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Implementation/f:Sorter.cs" caret="388" fromTop="13" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/f:IndexedDictionary.cs" caret="124" fromTop="4" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Implementation/f:Apriori.cs" caret="6368" fromTop="34" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/d:Types/f:Store.cs" caret="256" fromTop="12" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Entities/f:Item.cs" caret="369" fromTop="10" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Graph.Designer.cs" caret="488" fromTop="13" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/d:Types/f:Category.cs" caret="249" fromTop="12" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Contracts/f:IApriori.cs" caret="125" fromTop="5" />
+      <File id="49F14BB7-E49E-4574-8038-25ABB6D5CF46/d:Entities/f:Output.cs" caret="137" fromTop="5" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Home.Designer.cs" caret="1838" fromTop="0" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/d:Types/f:Product.cs" caret="418" fromTop="13" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Home.cs" caret="840" fromTop="17" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlAddTranscation.cs" caret="10561" fromTop="65" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Program.cs" caret="501" fromTop="20" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Graph.cs" caret="1764" fromTop="10" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:StartPage.cs" caret="1153" fromTop="19" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlDashBoard.cs" caret="731" fromTop="0" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="18951" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlAddTranscation.cs" caret="7860" fromTop="23" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlAddTranscation.cs" caret="1163" fromTop="10" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlAddTranscation.cs" caret="11117" fromTop="18" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlAddTranscation.cs" caret="10424" fromTop="18" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="23" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="23" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="24" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="30691" fromTop="23" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="26" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="12" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Program.cs" caret="473" fromTop="16" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlDashBoard.cs" caret="866" fromTop="3" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:Graph.cs" caret="1534" fromTop="9" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlDashBoard.cs" caret="8550" fromTop="17" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="16" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="15" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="30" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlDashBoard.cs" caret="8747" fromTop="1" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28504" fromTop="12" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlDashBoard.cs" caret="1345" fromTop="24" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="19540" fromTop="18" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="28506" fromTop="4" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="31222" fromTop="9" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="29415" fromTop="32" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="31189" fromTop="19" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="9044" fromTop="23" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="31889" fromTop="27" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="35990" fromTop="28" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="19479" fromTop="21" />
+      <File id="08E546FE-8008-430A-B598-B93332FC3A17/f:UserControlApriori.cs" caret="18951" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="24" />
+      <Item value="string" priority="49" />
+      <Item value="itemsarray" priority="4" />
+      <Item value="new" priority="25" />
+      <Item value="_table" priority="4" />
+      <Item value="foreach" priority="19" />
+      <Item value="for" priority="6" />
+      <Item value="return" priority="11" />
+      <Item value="GetTranscation`0" priority="0" />
+      <Item value="txtSupport" priority="1" />
+      <Item value="Convert`0" priority="2" />
+      <Item value="using" priority="1" />
+      <Item value="Windows.Forms" priority="0" />
+      <Item value="DataVisualization" priority="0" />
+      <Item value="Charting" priority="0" />
+      <Item value="public" priority="7" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="List" priority="26" />
+      <Item value="Item`0" priority="4" />
+      <Item value="List&lt;Item&gt;" priority="3" />
+      <Item value="itemList" priority="1" />
+      <Item value="Item" priority="4" />
+      <Item value="Name" priority="9" />
+      <Item value="Description" priority="2" />
+      <Item value="listItems" priority="4" />
+      <Item value="GetAllListItem`0" priority="0" />
+      <Item value="product" priority="20" />
+      <Item value="n" priority="4" />
+      <Item value="if" priority="30" />
+      <Item value="else" priority="5" />
+      <Item value="int" priority="15" />
+      <Item value="i" priority="11" />
+      <Item value="String`0" priority="5" />
+      <Item value="ProductName" priority="0" />
+      <Item value="transcations" priority="0" />
+      <Item value="transcation" priority="0" />
+      <Item value="transaction" priority="2" />
+      <Item value="transList" priority="0" />
+      <Item value="item" priority="8" />
+      <Item value="Result`0" priority="2" />
+      <Item value="Result" priority="0" />
+      <Item value="form" priority="2" />
+      <Item value="_support" priority="0" />
+      <Item value="support" priority="0" />
+      <Item value="_confidence" priority="0" />
+      <Item value="confidence" priority="0" />
+      <Item value="freqList" priority="2" />
+      <Item value="Support" priority="0" />
+      <Item value="dtStartDate" priority="1" />
+      <Item value="false" priority="11" />
+      <Item value="dtEndDate" priority="2" />
+      <Item value="MessageBox`0" priority="4" />
+      <Item value="DateTime`0" priority="4" />
+      <Item value="true" priority="12" />
+      <Item value="bool" priority="2" />
+      <Item value="result" priority="2" />
+      <Item value="Color`0" priority="7" />
+      <Item value="txtConfidence" priority="1" />
+      <Item value="startDate" priority="2" />
+      <Item value="endDate" priority="2" />
+      <Item value="_startDate" priority="4" />
+      <Item value="_endDate" priority="2" />
+      <Item value="chkMonday" priority="0" />
+      <Item value="chkTuesday" priority="0" />
+      <Item value="chkWednesday" priority="0" />
+      <Item value="chkThursday" priority="0" />
+      <Item value="chkFriday" priority="0" />
+      <Item value="chkSaturday" priority="0" />
+      <Item value="List&lt;int&gt;" priority="2" />
+      <Item value="Select`0" priority="0" />
+      <Item value="switch" priority="2" />
+      <Item value="checkBox" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="checkBoxes" priority="0" />
+      <Item value="weekdaysList" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="weekendList" priority="1" />
+      <Item value="_weekendList" priority="1" />
+      <Item value="_sql" priority="4" />
+      <Item value="weekdayList" priority="1" />
+      <Item value="GetSQLQuery`0" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="Dictionary&lt;int,string&gt;" priority="0" />
+      <Item value="allStoresList" priority="0" />
+      <Item value="GetAllStores`0" priority="1" />
+      <Item value="storeList" priority="9" />
+      <Item value="allStores" priority="0" />
+      <Item value="ScrollStateVScrollVisible" priority="0" />
+      <Item value="prop" priority="6" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="Store" priority="0" />
+      <Item value="StoreId" priority="0" />
+      <Item value="StoreName" priority="0" />
+      <Item value="null" priority="4" />
+      <Item value="selectedStoreList" priority="1" />
+      <Item value="store" priority="5" />
+      <Item value="Store`0" priority="2" />
+      <Item value="as" priority="5" />
+      <Item value="selectedStoresList" priority="0" />
+      <Item value="_storeList" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="from" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="row" priority="1" />
+      <Item value="where" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="CreateTransctionSection`0" priority="0" />
+      <Item value="CreateFrequentItemsList`0" priority="1" />
+      <Item value="output" priority="3" />
+      <Item value="CreateParams`0" priority="1" />
+      <Item value="try" priority="3" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ex" priority="3" />
+      <Item value="GroupBox`0" priority="0" />
+      <Item value="GroupBox" priority="0" />
+      <Item value="Text" priority="4" />
+      <Item value="Width" priority="3" />
+      <Item value="Height" priority="0" />
+      <Item value="Location" priority="7" />
+      <Item value="Label`0" priority="3" />
+      <Item value="Label" priority="1" />
+      <Item value="this" priority="6" />
+      <Item value="grpFrequentItems" priority="2" />
+      <Item value="frequentItemslbl" priority="0" />
+      <Item value="Point" priority="3" />
+      <Item value="AutoSize" priority="5" />
+      <Item value="AutoSizeMode`0" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="Font" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="Control`0" priority="0" />
+      <Item value="Drawing" priority="0" />
+      <Item value="Font`0" priority="0" />
+      <Item value="grpboxFrequentHeight" priority="0" />
+      <Item value="grpClosedItems" priority="0" />
+      <Item value="grpMaximalItems" priority="0" />
+      <Item value="grpMaximalItemsHeight" priority="0" />
+      <Item value="tabMain" priority="0" />
+      <Item value="tabApriori" priority="1" />
+      <Item value="UserControlResult`0" priority="1" />
+      <Item value="ctrl" priority="2" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="tabControl1" priority="1" />
+      <Item value="userControlResult1" priority="0" />
+      <Item value="userControlApriori1" priority="0" />
+      <Item value="panel1" priority="1" />
+      <Item value="Button`0" priority="0" />
+      <Item value="Button" priority="0" />
+      <Item value="btnBack" priority="1" />
+      <Item value="Panel`0" priority="0" />
+      <Item value="Panel" priority="0" />
+      <Item value="resultPanel" priority="1" />
+      <Item value="X" priority="0" />
+      <Item value="checkBox1" priority="0" />
+      <Item value="checkBoxSelectAll" priority="0" />
+      <Item value="CheckedListBox`0" priority="0" />
+      <Item value="dataGridMaximumSoldProducts" priority="3" />
+      <Item value="double" priority="0" />
+      <Item value="Price" priority="2" />
+      <Item value="tabDashboard" priority="4" />
+      <Item value="UserControlDashBoard`0" priority="2" />
+      <Item value="Category" priority="1" />
+      <Item value="List&lt;Product&gt;" priority="1" />
+      <Item value="Product`0" priority="5" />
+      <Item value="Product" priority="0" />
+      <Item value="products" priority="1" />
+      <Item value="prod" priority="0" />
+      <Item value="Graph`0" priority="1" />
+      <Item value="graph" priority="2" />
+      <Item value="Graph" priority="0" />
+      <Item value="_output" priority="6" />
+      <Item value="graphType" priority="2" />
+      <Item value="chartControl" priority="0" />
+      <Item value="Series`0" priority="1" />
+      <Item value="Series" priority="0" />
+      <Item value="series" priority="3" />
+      <Item value="DataPoint" priority="0" />
+      <Item value="DataPointCollection" priority="0" />
+      <Item value="dataPoint" priority="7" />
+      <Item value="Pie" priority="0" />
+      <Item value="series1" priority="1" />
+      <Item value="chart1" priority="4" />
+      <Item value="LegendCollection" priority="0" />
+      <Item value="Legend" priority="0" />
+      <Item value="comboStore" priority="5" />
+      <Item value="cmbCategory" priority="6" />
+      <Item value="Category`0" priority="4" />
+      <Item value="tabAddTransaction" priority="1" />
+      <Item value="UserControlAddTranscation`0" priority="0" />
+      <Item value="ProcessDialogChar`0" priority="0" />
+      <Item value="categoryId" priority="1" />
+      <Item value="listBox1" priority="3" />
+      <Item value="productList" priority="0" />
+      <Item value="category" priority="0" />
+      <Item value="listBox2" priority="6" />
+      <Item value="selectedProducts" priority="6" />
+      <Item value="sender" priority="0" />
+      <Item value="existingProduct" priority="0" />
+      <Item value="conn" priority="0" />
+      <Item value="WindowsFormsSection`0" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="newOrder" priority="0" />
+      <Item value="errMessage" priority="1" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="Number" priority="0" />
+      <Item value="Home`0" priority="0" />
+      <Item value="graphFor" priority="0" />
+      <Item value="chartArea1" priority="0" />
+      <Item value="chart2" priority="2" />
+      <Item value="Solid" priority="0" />
+      <Item value="GradientStyle`0" priority="0" />
+      <Item value="MaximalItemSets" priority="0" />
+      <Item value="maximalItemSet" priority="0" />
+      <Item value="UserControlApriori`0" priority="0" />
+      <Item value="listBoxCategory" priority="2" />
+      <Item value="SelectionMode`0" priority="0" />
+      <Item value="StartPage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="2" />
+      <Item value="AsEnumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+      <Item value="ForeColor" priority="2" />
+      <Item value="BackColor" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Length" priority="5" />
+      <Item value="Substring`0" priority="1" />
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+      <Item value="Replace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToBase64CharArray`0" priority="0" />
+      <Item value="ToInt32`0" priority="9" />
+      <Item value="ToDouble`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="8" />
+      <Item value="Find`0" priority="3" />
+      <Item value="Count" priority="2" />
+      <Item value="Join`4" priority="0" />
+      <Item value="RemoveAll`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AprioriAlgorithm.Item">
+      <Item value="Description" priority="14" />
+      <Item value="Name" priority="11" />
+      <Item value="Support" priority="4" />
+      <Item value="Price" priority="2" />
+      <Item value="Category" priority="2" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Concat`0" priority="0" />
+      <Item value="Format`0" priority="9" />
+      <Item value="Empty" priority="8" />
+      <Item value="Join`0" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SampleProject.Result">
+      <Item value="ScrollStateHScrollVisible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Result">
+      <Item value="Show`0" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="listBox5" priority="0" />
+      <Item value="grpboxTransactionHeight" priority="0" />
+      <Item value="grpboxClosedHeight" priority="0" />
+      <Item value="grpMaximalItemsHeight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Checked" priority="2" />
+      <Item value="ShowCheckBox" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="1" />
+      <Item value="White" priority="1" />
+      <Item value="Transparent" priority="1" />
+      <Item value="PowderBlue" priority="0" />
+      <Item value="Black" priority="0" />
+      <Item value="LightBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Date" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="TryGetValue`0" priority="1" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox">
+      <Item value="DataSource" priority="1" />
+      <Item value="DisplayMember" priority="0" />
+      <Item value="ValueMember" priority="0" />
+      <Item value="SelectedItems" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="CheckedItems" priority="1" />
+      <Item value="Items" priority="2" />
+      <Item value="SetItemChecked`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+SelectedObjectCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Types.Store">
+      <Item value="StoreId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Field`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.EnumerableRowCollection`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Location" priority="1" />
+      <Item value="Controls" priority="2" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="5" />
+      <Item value="Find`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.AutoSizeMode">
+      <Item value="GrowAndShrink" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="SelectedTab" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.UserControlApriori">
+      <Item value="Visible" priority="2" />
+      <Item value="Parent" priority="1" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.UserControlResult">
+      <Item value="Visible" priority="1" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Controls" priority="1" />
+      <Item value="Visible" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Visible" priority="2" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="1" />
+      <Item value="AutoResizeColumn`0" priority="0" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="Columns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Graph">
+      <Item value="Show`0" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="chart1" priority="0" />
+      <Item value="chartControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Chart">
+      <Item value="Series" priority="1" />
+      <Item value="Legends" priority="1" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="BackColor" priority="2" />
+      <Item value="BorderWidth" priority="0" />
+      <Item value="ForeColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataVisualization.Charting.SeriesChartType">
+      <Item value="Pie" priority="1" />
+      <Item value="Bar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Series">
+      <Item value="Points" priority="2" />
+      <Item value="Label" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.DataPoint">
+      <Item value="YValues" priority="0" />
+      <Item value="Label" priority="0" />
+      <Item value="LegendText" priority="0" />
+      <Item value="IsValueShownAsLabel" priority="1" />
+      <Item value="XValue" priority="0" />
+      <Item value="AxisLabel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.DataPointCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.LegendCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="DataSource" priority="1" />
+      <Item value="DisplayMember" priority="1" />
+      <Item value="ValueMember" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedValue" priority="2" />
+      <Item value="SelectedItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="DataSource" priority="4" />
+      <Item value="DisplayMember" priority="1" />
+      <Item value="ValueMember" priority="1" />
+      <Item value="SelectedItems" priority="1" />
+      <Item value="SelectionMode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Types.Product">
+      <Item value="Id" priority="4" />
+      <Item value="Quantity" priority="3" />
+      <Item value="NameQuantity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Types.Category">
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="Int" priority="3" />
+      <Item value="DateTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataVisualization.Charting.GradientStyle">
+      <Item value="TopBottom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.Home">
+      <Item value="userControlAddTranscation1" priority="0" />
+      <Item value="userControlApriori1" priority="0" />
+      <Item value="userControlDashBoard1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.UserControlAddTranscation">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleProject.UserControlDashBoard">
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.SelectionMode">
+      <Item value="One" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.ChartArea3DStyle">
+      <Item value="PointDepth" priority="0" />
+      <Item value="Enable3D" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
